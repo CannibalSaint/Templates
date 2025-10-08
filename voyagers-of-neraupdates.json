@@ -28,7 +28,7 @@
         "UpdateStageName": "CustomHostServerUserSettings.ini Download",
         "UpdateSourcePlatform": "All",
         "UpdateSource": "FetchURL",
-        "UpdateSourceData": "https://raw.githubusercontent.com/CubeCoders/AMPTemplates/main/voyagers-of-neracustomhostserverusersettings.ini",
+        "UpdateSourceData": "https://raw.githubusercontent.com/CannibalSaint/Templates/voyagers-of-neracustomhostserverusersettings.ini",
         "UpdateSourceTarget": "{{$FullBaseDir}}BoatGame/Saved/PersistedData/CustomConfig",
         "UpdateSourceArgs": "CustomHostServerUserSettings.ini",
         "OverwriteExistingFiles": true,
